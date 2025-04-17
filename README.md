@@ -1,1 +1,1 @@
-# -CSE4185-Intro-to-AI
+# CSE4185-Intro-to-AI
